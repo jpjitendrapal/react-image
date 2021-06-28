@@ -1,3 +1,3 @@
-exports.testMsg = function() {
-    console.log("This is a message from the test package");
-  }
+export default function(src){
+    return <img src={src} />
+}
