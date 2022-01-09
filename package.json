@@ -4,7 +4,7 @@
   "description": "React Package Image Lazy Load",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "see the link in readme"
   },
   "repository": {
     "type": "git",
@@ -14,12 +14,23 @@
     "React",
     "Image",
     "Lazy",
-    "load"
+    "load",
+    "img",
+    "lazy-load-images",
+    "react-lazy-load",
+    "react-component",
+		"lazyload",
+		"lazyloading",
+		"lazy-loading",
+		"lazyload-images"
   ],
   "author": "JP",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jpjitendrapal/react-image/issues"
   },
-  "homepage": "https://github.com/jpjitendrapal/react-image#readme"
+  "homepage": "https://github.com/jpjitendrapal/react-image#readme",
+  "devDependencies": {
+    "react": "^17.0.2"
+  }
 }
