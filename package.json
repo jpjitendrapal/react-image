@@ -1,6 +1,6 @@
 {
   "name": "react-img-lazy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "React Package Image Lazy Load",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,10 @@
   },
   "homepage": "https://github.com/jpjitendrapal/react-image#readme",
   "devDependencies": {
-    "react": "^17.0.2"
-  }
+    
+  },
+  "peerDependencies": {
+		"react": "^15.x.x || ^16.x.x || ^17.x.x",
+		"react-dom": "^15.x.x || ^16.x.x || ^17.x.x"
+	}
 }
