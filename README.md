@@ -11,7 +11,6 @@ $ npm i --save react-img-lazy
 ```
 
 
-Lazy Load image and lazy load component also
 Example of lazy load images:
 https://codesandbox.io/s/react-img-lazy-h8p9v
 
