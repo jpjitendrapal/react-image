@@ -1,6 +1,6 @@
 {
   "name": "react-img-lazy",
-  "version": "0.0.9",
+  "version": "0.1.1",
   "description": "React Package Image Lazy Load",
   "main": "index.js",
   "scripts": {
