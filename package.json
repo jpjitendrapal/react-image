@@ -19,10 +19,10 @@
     "lazy-load-images",
     "react-lazy-load",
     "react-component",
-		"lazyload",
-		"lazyloading",
-		"lazy-loading",
-		"lazyload-images"
+    "lazyload",
+    "lazyloading",
+    "lazy-loading",
+    "lazyload-images"
   ],
   "author": "JP",
   "license": "ISC",
